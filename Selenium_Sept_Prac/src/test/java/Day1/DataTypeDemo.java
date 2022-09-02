@@ -44,7 +44,7 @@ public class DataTypeDemo {
 		 * dynamically typed language - python x=100; x=100.55
 		 */
 		int age=16, income=4000, profit=3000;
-		System.out.println("I earned a Profit of "+  profit + "at the age of "+ age + "from my total income of: "+ income);
+		System.out.println("I earned a Profit of "  +  profit + "at the age of "+ age + "from my total income of: "+ income);
 		boolean rich = true;
 		System.out.println(rich);
 		
