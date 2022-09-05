@@ -19,7 +19,14 @@ public class StringVariables {
 		//charAt(); INDEX STARTS 0
 		//contains();
 		//equals();
-		//equalsIgnorecase(;)
+		//equalsIgnorecase();
+		//replace(); 
+		//substring() start index 0123/end 123
+		//split();
+		//toLowerCase();
+		//toUpperCase();
+		name.replace('a','g');
+		System.out.println(name);
 
 	}
 
