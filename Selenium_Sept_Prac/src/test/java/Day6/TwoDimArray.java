@@ -15,7 +15,16 @@ public class TwoDimArray {
 		
 		
 		System.out.println(a[2][1]);
+		
+		//Approach2
+		
+		int h [][] = {{200,56},
+				     {34,67},
+				     {567,90},
+				     {5,9}
+				     };
+		}
 
 	}
 
-}
+
