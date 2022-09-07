@@ -27,6 +27,9 @@ public class StringVariables {
 		//toUpperCase();
 		name.replace('a','g');
 		System.out.println(name);
+		String Name5 ="ganga";
+		String Name6 ="GANGA";
+		System.out.println("Name conveted to upper :" + Name5.toUpperCase() +"   and name converted to lower:" + Name6.toLowerCase());
 
 	}
 
