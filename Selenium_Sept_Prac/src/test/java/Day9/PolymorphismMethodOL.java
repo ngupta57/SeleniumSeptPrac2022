@@ -33,7 +33,7 @@ public class PolymorphismMethodOL {
 		this.b=b;
 		this.Name=Name;
 		a=67;
-		System.out.println("The Sum of A+ b is By: " + this.Name + " " +" "+ (a+ this.b));
+		System.out.println("The Sum of A+ b is By: " + Name + " " +" "+ (a+ b));
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
